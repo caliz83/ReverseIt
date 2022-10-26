@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lizg1\\GitReverseIt\\ReverseIt\\ReverseIt.csproj": {}
+    "/Users/Angelica/Documents/Night Class Lectures/PeerReview/ReverseItLiz/ReverseIt/ReverseIt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lizg1\\GitReverseIt\\ReverseIt\\ReverseIt.csproj": {
+    "/Users/Angelica/Documents/Night Class Lectures/PeerReview/ReverseItLiz/ReverseIt/ReverseIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lizg1\\GitReverseIt\\ReverseIt\\ReverseIt.csproj",
+        "projectUniqueName": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/ReverseItLiz/ReverseIt/ReverseIt.csproj",
         "projectName": "ReverseIt",
-        "projectPath": "C:\\Users\\lizg1\\GitReverseIt\\ReverseIt\\ReverseIt.csproj",
-        "packagesPath": "C:\\Users\\lizg1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lizg1\\GitReverseIt\\ReverseIt\\obj\\",
+        "projectPath": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/ReverseItLiz/ReverseIt/ReverseIt.csproj",
+        "packagesPath": "/Users/Angelica/.nuget/packages/",
+        "outputPath": "/Users/Angelica/Documents/Night Class Lectures/PeerReview/ReverseItLiz/ReverseIt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lizg1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/Angelica/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

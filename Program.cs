@@ -1,4 +1,10 @@
-﻿bool letsPlay = true;
+﻿
+
+//Peer Reviewed by: Angelica Ayala
+//Date: 10/25/22
+//Works great and play again option works well.
+
+bool letsPlay = true;
 
 while(letsPlay == true)
 {
