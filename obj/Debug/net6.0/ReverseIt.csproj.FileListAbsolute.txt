@@ -1,0 +1,15 @@
+C:\Users\lizg1\GitReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.exe
+C:\Users\lizg1\GitReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.deps.json
+C:\Users\lizg1\GitReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.runtimeconfig.json
+C:\Users\lizg1\GitReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.dll
+C:\Users\lizg1\GitReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.pdb
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.csproj.AssemblyReference.cache
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.AssemblyInfoInputs.cache
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.AssemblyInfo.cs
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.csproj.CoreCompileInputs.cache
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.dll
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\refint\ReverseIt.dll
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.pdb
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.genruntimeconfig.cache
+C:\Users\lizg1\GitReverseIt\ReverseIt\obj\Debug\net6.0\ref\ReverseIt.dll
